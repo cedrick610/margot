@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+background-image: url("../../storage/uploads/reds.jpg");
+}
+
+li {
+
+    font-size: x-large;
+    font-weight: 600;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border-radius: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    margin-top: 20%;
+   
+}
+
+.margot1{
+    border-radius: 10px;
+}
+
+.btn-create {
+    margin-top: 10px;
+}
+
+footer{
+    background-color: white;
+width: auto;
+}
+
+
+
